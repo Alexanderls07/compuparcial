@@ -1,0 +1,2 @@
+# compuparcial
+parcialcompu
